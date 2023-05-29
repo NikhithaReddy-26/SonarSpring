@@ -18,6 +18,7 @@
 		<sonar.organization>nikhithareddy-26</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
+
 	</properties>
 	<dependencies>
 		<dependency>
